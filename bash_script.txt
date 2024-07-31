@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/Vorisxd/project_mockup_dVoris.git
+touch connector.py dashboard.py ddl.py etl.py my.db readme.md requirments.txt bash_script.txt 
+mkdir queries source
+git add .
+git commit -m "Added all files/folders and all scripts to bash_scripts.txt"
+git push -u origin main
